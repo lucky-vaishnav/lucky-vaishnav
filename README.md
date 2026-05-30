@@ -25,9 +25,14 @@ Senior Software Engineer with 8+ years of experience building scalable backend s
 ![MongoDB](https://img.shields.io/badge/MongoDB-Experienced-green)
 ![AWS](https://img.shields.io/badge/AWS-Working_Knowledge-orange)
 ![Docker](https://img.shields.io/badge/Docker-Basic-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Experienced-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Experienced-3178C6?logo=typescript&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-Experienced-009639?logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-Experienced-FF6C37?logo=postman&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-Experienced-2B037A?logo=pm2&logoColor=white)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,angular,docker,aws,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,angular,docker,aws,git,js,ts" />
 </p>
 
 ### Backend
@@ -52,4 +57,14 @@ AWS (EC2, SQS, API Gateway) | Docker | PM2
 - Payment Integrations
 - Production Support
 
+## Additional Tools & Technologies
+
+- Nginx
+- PM2
+- Postman
+- Sequelize
+- Auth0
+- JWT
+- Braintree
+- CyberSource
 
