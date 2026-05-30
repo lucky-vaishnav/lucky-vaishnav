@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Lucky Vaishnav 👋
 
-<!--
-**lucky-vaishnav/lucky-vaishnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 8+ years of experience building scalable backend systems and APIs.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Senior Software Engineer
+- Backend Development Specialist
+- Node.js & PostgreSQL Developer
+- Experience with Microservices and System Design
+- Working on Mobility, Payments and Enterprise Applications
+
+## Tech Stack
+
+### Backend
+Node.js | Express.js | NestJS
+
+### Database
+PostgreSQL | MongoDB
+
+### Frontend
+Angular
+
+### Cloud & DevOps
+AWS (EC2, SQS, API Gateway) | Docker | PM2
+
+## Core Expertise
+
+- Backend Development
+- REST APIs
+- Microservices
+- System Design
+- Authentication & Authorization
+- Payment Integrations
+- Production Support
+
+## Connect
+
+LinkedIn: www.linkedin.com/in/lucky-vaishnav
+
+Email: luckyvaishnav55@gmail.com
