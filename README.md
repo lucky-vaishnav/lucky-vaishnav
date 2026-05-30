@@ -24,6 +24,10 @@ Angular
 ### Cloud & DevOps
 AWS (EC2, SQS, API Gateway) | Docker | PM2
 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,angular,docker,aws,git" />
+</p>
+
 ## Core Expertise
 
 - Backend Development
