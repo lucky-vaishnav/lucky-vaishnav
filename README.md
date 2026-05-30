@@ -12,6 +12,10 @@ Senior Software Engineer with 8+ years of experience building scalable backend s
 - Worked on enterprise and mobility solutions
 - AWS Certified Cloud Practitioner
 
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lucky-vaishnav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luckyvaishnav55@gmail.com) 
+
 ## Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-Experienced-green)
@@ -48,8 +52,4 @@ AWS (EC2, SQS, API Gateway) | Docker | PM2
 - Payment Integrations
 - Production Support
 
-## Connect
 
-LinkedIn: www.linkedin.com/in/lucky-vaishnav
-
-Email: luckyvaishnav55@gmail.com
